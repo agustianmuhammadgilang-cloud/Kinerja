@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Ini halaman branch gilang</h1>
+    <p>Info tauran</p>
+    <p><a href="/home">About</a></p>
 </body>
 </html>
