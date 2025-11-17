@@ -9,5 +9,6 @@
     <h1>Welcome to Repan Home Page</h1>
     <p>This is the home view of the Repan application.</p>
     <p><a href="/about">About</a></p>
+    <h1>Testing</h1>
 </body>
 </html>
